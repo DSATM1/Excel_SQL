@@ -1,0 +1,27 @@
+category,sum(sales),,,,,,
+Accessories,30100,,,,,,
+Electronics,371500,,,,,,
+,,,,,,,
+,,,Row Labels,Sum of sum(sales),,Row Labels,Sum of sum(sales)
+category,sum(sales),,Electronics,371500,,Accessories,30100
+Electronics,371500,,Accessories,30100,,Electronics,371500
+Accessories,30100,,Grand Total,401600,,Grand Total,401600
+,,,,,,,
+,,,,,,,
+product,sum(sales),,,,,Row Labels,Sum of sum(sales)
+Laptop,285000,,,,,Laptop,285000
+,,,Row Labels,Sum of sum(sales),,Grand Total,285000
+,,,NULL,401600,,,
+month,sum(sales),,Grand Total,401600,,,
+NULL,401600,,,,,,
+,,,,,,Sum of sum(sales),
+,,,Row Labels,Sum of sum(sales),,401600,
+region,sum(sales),,East,35200,,,
+South,196700,,North,121100,,,
+North,121100,,South,196700,,,
+East,35200,,West,48600,,,
+West,48600,,Grand Total,401600,,,
+,,,,,,,
+,,,,,,,
+sum(sales),,,,,,,
+401600,,,,,,,
